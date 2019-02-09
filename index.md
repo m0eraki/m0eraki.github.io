@@ -5,7 +5,7 @@ I am mainly interested in Threat Intelligence and tracing threat actors.
 
 ## Employment
 ### (~ Apr.2015) Assistant Manager, KFTC (Korea Financial Telecommunications & Clearings Institute)
-#### Computer Emergency Response Team
+Computer Emergency Response Team    
 ### (Apr.2015 ~ Current) Manager, FSI (Financial Security Institute)
 Threat Analysis Team (~Jan.2019)  
 Security Operations Center (Current)
