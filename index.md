@@ -4,15 +4,12 @@ I am Kyoung-ju Kwak and **Oamaru** is one of my favourite place in New Zealand. 
 I am mainly interested in Threat Intelligence and tracing threat actors.  
 
 ## Employment
-### Assistant Manager, KFTC (Korea Financial Telecommunications & Clearings Institute)  
-~ Apr.2015  
+### (~ Apr.2015) Assistant Manager
+KFTC (Korea Financial Telecommunications & Clearings Institute), South Korea 
+### (Apr.2015 ~ Current) Manager
+Threat Analysis Team, FSI (Financial Security Institute), South Korea  
 
-### Manager, FSI (Financial Security Institute)
-Apr.2015 ~ Current  
-Threat Analysis Team  
-
-### Adjunct Professor, SungKyunKwan University
-Mar.2019 ~ Current  
-Department of Forensics
+### (Mar.2019 ~ Current) Adjunct Professor
+Department of Forensics, SungKyunKwan University, South Korea
   
 ## Education
