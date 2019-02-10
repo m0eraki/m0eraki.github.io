@@ -16,3 +16,14 @@ Department of Forensics, Sungkyunkwan University, South Korea
 ## Education
 ### Master of Engineering, Sungkyunkwan University
 ### Bachelor of Engineering, Sungkyunkwan University
+
+## Professional Activities
+### Advisor of National Police Agency
+Cyber Threat Expert Group  
+### Mentor of Best of the Best Program
+Digital Forensics Track
+### Kimchicon Reviewboard
+
+## Publication
+## Presentation
+## Media
