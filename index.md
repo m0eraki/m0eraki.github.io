@@ -23,6 +23,7 @@ Cyber Threat Expert Group
 ### Mentor of Best of the Best Program
 Digital Forensics Track
 ### Kimchicon Reviewboard
+http://kimchicon.org/2018/cfp.html  
 
 ## Publication
 ## Presentation
