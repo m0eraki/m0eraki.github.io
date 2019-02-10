@@ -12,11 +12,12 @@ Security Operations Center (Current)
 
 ### (Mar.2019 ~ Current) Adjunct Professor
 Department of Forensics, Sungkyunkwan University, South Korea  
+  
 
 ## Education
 Master of Engineering, Sungkyunkwan University, South Korea  
 Bachelor of Engineering, Sungkyunkwan University, South Korea
-
+  
 ## Professional Activities
 ### Advisor of National Police Agency
 Cyber Threat Expert Group  
@@ -24,7 +25,7 @@ Cyber Threat Expert Group
 Digital Forensics Track
 ### Kimchicon Reviewboard
 http://kimchicon.org/2018/cfp.html  
-
+  
 ## Publication
 ## Presentation
 ## Media
