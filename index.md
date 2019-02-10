@@ -29,3 +29,6 @@ http://kimchicon.org/2018/cfp.html
 ## Publication
 ## Presentation
 ## Media
+## Hobby
+### Ice hockey
+### Photograph
