@@ -11,6 +11,8 @@ Threat Analysis Team (~Jan.2019)
 Security Operations Center (Current)
 
 ### (Mar.2019 ~ Current) Adjunct Professor
-Department of Forensics, SungKyunKwan University, South Korea  
+Department of Forensics, Sungkyunkwan University, South Korea  
 
 ## Education
+### Master of Engineering, Sungkyunkwan University
+### Bachelor of Engineering, Sungkyunkwan University
