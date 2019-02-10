@@ -14,8 +14,8 @@ Security Operations Center (Current)
 Department of Forensics, Sungkyunkwan University, South Korea  
 
 ## Education
-### Master of Engineering, Sungkyunkwan University
-### Bachelor of Engineering, Sungkyunkwan University
+Master of Engineering, Sungkyunkwan University, South Korea  
+Bachelor of Engineering, Sungkyunkwan University, South Korea
 
 ## Professional Activities
 ### Advisor of National Police Agency
