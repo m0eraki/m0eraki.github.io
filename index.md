@@ -28,6 +28,7 @@ Analysis and Countermeasures of Security Vulnerability on Portal Sites (ACM ICUI
 백업파일을 이용한 iPhone 포렌식에 관한 연구 (한국포렌식학회 춘계학술대회, 2011.06.03)  
 디지털 포렌식 법제도 개선방향 (한국통신학회 동계 학술대회 논문집, 2012.02.08)  
 원격검증을 제공하는 SCADA 시스템 보안 프레임워크 (한국통신학회 동계 학술대회 논문집, 2012.02.08)  
+실전 포렌식 증거 수집 번역 (에이콘출판사, 출간일 : 2018. 12. 31.)
   
 ## Presentation
 Information Security Overview (HongIk University, 2011)  
