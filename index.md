@@ -63,8 +63,8 @@ The Case Study of Incidents in Korea Financial Sector (Samsung, 2018)
 Underground Invasion Tunnels : State-Sponsored Cyber Miners Recent Status (Kaspersky SAS (Cancun, Mexico), 2018)  
 Landscape of Threats in South Korea (NetSecKR 2018)  
 Silent Cyberwarfare (or may be cybercrime) in South Korea (KAIST GSIS Seminar, 2018)  
-Cyber Threat Intelligence (Natioanl Security Research Institute, 2018)
-Threat Intelligence (Sunkyunkwan University, 2019)  
+Cyber Threat Intelligence (Natioanl Security Research Institute, 2018)  
+Threat Intelligence (Sunkyunkwan University, 2019)    
 
 ## Media
 ## Hobby
