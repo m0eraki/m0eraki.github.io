@@ -69,6 +69,6 @@ Threat Intelligence (Sunkyunkwan University, 2019)
 ## Media
 ## Hobby
 ### Ice hockey
-![](https://m0eraki.github.io/assets/hockey.jpg | width=400)
+![](https://m0eraki.github.io/assets/hockey.jpg)
 
 ### Photograph
