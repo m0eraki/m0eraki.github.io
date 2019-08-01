@@ -24,11 +24,12 @@ Mentor of Best of the Best Program (Digital Forensics Track)
 Kimchicon Reviewboard (http://kimchicon.org/2018/cfp.html)  
   
 ## Publication
-Analysis and Countermeasures of Security Vulnerability on Portal Sites (ACM ICUIMC 2011, 2011. 02.21)  
-백업파일을 이용한 iPhone 포렌식에 관한 연구 (한국포렌식학회 춘계학술대회, 2011.06.03)  
-디지털 포렌식 법제도 개선방향 (한국통신학회 동계 학술대회 논문집, 2012.02.08)  
-원격검증을 제공하는 SCADA 시스템 보안 프레임워크 (한국통신학회 동계 학술대회 논문집, 2012.02.08)  
-실전 포렌식 증거 수집 번역 (에이콘출판사, 출간일 : 2018. 12. 31.)
+1. Analysis and Countermeasures of Security Vulnerability on Portal Sites (ACM ICUIMC 2011, 2011. 02.21)  
+2. 백업파일을 이용한 iPhone 포렌식에 관한 연구 (한국포렌식학회 춘계학술대회, 2011.06.03)  
+3. 디지털 포렌식 법제도 개선방향 (한국통신학회 동계 학술대회 논문집, 2012.02.08)  
+4. 원격검증을 제공하는 SCADA 시스템 보안 프레임워크 (한국통신학회 동계 학술대회 논문집, 2012.02.08)
+5. 위협인텔리전스 보고서 Campaign RIFLE: Andariel, The Maiden of Anguish (2017.07.27)
+6. 실전 포렌식 증거 수집 번역 (에이콘출판사, 출간일 : 2018. 12. 31)
   
 ## Presentation
 Information Security Overview (HongIk University, 2011)  
@@ -64,7 +65,8 @@ Underground Invasion Tunnels : State-Sponsored Cyber Miners Recent Status (Kaspe
 Landscape of Threats in South Korea (NetSecKR 2018)  
 Silent Cyberwarfare (or may be cybercrime) in South Korea (KAIST GSIS Seminar, 2018)  
 Cyber Threat Intelligence (Natioanl Security Research Institute, 2018)  
-Threat Intelligence (Sunkyunkwan University, 2019)    
+Threat Intelligence (Sunkyunkwan University, 2019)  
+Fight Against Cybercrime: GANDCRAB Threat Groups (International Symposium on Cyber Crime Response, 2019)
 
 ## Media
 ## Hobby
